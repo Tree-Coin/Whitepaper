@@ -90,7 +90,7 @@ Holding trees means holding life and the **Tree Coin® is therefore the perfect 
 
 
 {% hint style="info" %}
-**The main goal of Tree Coin® is the attainment of ecological and social well-being.**
+**The main goal of Tree Coin® is the attainment of ecological and social well-being**
 {% endhint %}
 
 ****
