@@ -8,27 +8,30 @@ description: Innovation for Financing Tree Protection, Eco-villages and Sustaina
 
 **All the problems today are due to to a DEBIT paradigm, which is a value based on a negative scale**: in nature negative values does not really exists, or at least it’s equal to zero.
 
-Physically you cannot own "-1" stones, woods or apples, it’s a serious contradiction minded from an ill reasoning and carried on day by day by custom: since millennia ago this led all the problems moved every time to next generations and give us today having at least "-2" planets!\
+Physically you cannot own `-1` stones, woods or apples, it’s a serious contradiction minded from an ill reasoning and carried on day by day by custom: since millennia ago this led all the problems moved every time to next generations and give us today having at least `-2` planets!\
 That’s why every year the [Earth Overshoot Day](https://en.wikipedia.org/wiki/Earth\_Overshoot\_Day) is anticipated more and more...
 
 This is well drawn by the "_impossible hamster"_ theory...
 
 {% embed url="https://www.youtube.com/watch?v=bqz3R1NpXzM" %}
 
-The current paradigm is ever based on Debit and you can see it ever written on all bancomat card.
+The current paradigm is ever based on **Debit** and you can see it ever written on all bancomat card.
 
 This not means - as they wants you think - that "_money are directly moved from your account"_ because if so it should say "direct transfer", or "direct" or - otherwise - "to revision".
 
 Instead, when you see wrote "credit", this means that "_the bank allow you to spend a bit until a certain maximum, and you have to pay an extra fee for this service, and you are subject to a fiscal revision_"… that’s a bad debit anyway and not a real credit!
 
-![Sample of a Debit card you already have in your wallet](<.gitbook/assets/immagine (1).png>)
+![Sample of a Debit card you already have in your wallet.
+You can see the text "Debit" as declaration of the current economic paradigm](<.gitbook/assets/immagine (1).png>)
 
 ## **The solution** <a href="#10f8" id="10f8"></a>
 
 In a world based a negative scale, all resources are made by plunder the nature.\
 In the same time we assist to an irreparable negative trend of all economies of the world, because all economies are based on the same paradigm: **debit and resource depredation**.
 
-This is not we want anymore, so the key is pretty simple: let's do the exact opposite!
+**This is not we want anymore, so the key is pretty simple: let's do the exact opposite!**
+
+
 
 ### The key: credit and tree protection
 
@@ -39,7 +42,10 @@ Bees need trees: and we all know the Einstein’s Say: "4 years after the bees c
 
 
 
-The **Tree Coin®** value is based on consensus on fair and ethical ecological benefit of Biological produce and Living Trees, unlike other currencies which are based on gold or pure speculation. The reason is simple: a planet without trees is no living planet: Therefore the **Tree Coin®** is a true **hymn to life**: it may sustain ecosystem benefits of trees and related forestry wildlife and CO2 reduction to sustain the world population. In fact, In less than 30 years, at a rate of increase is estimated at **81 million people per year the** world will count on a population of [about 8 billions of humans](https://www.worldometers.info/world-population/) of which **851,331,777 undernourished** according to the [State of world food insecurity by FAO](https://www.fao.org/publications/sofi/en/).
+The **Tree Coin®** value is based on consensus on fair and ethical ecological benefit of Biological produce and Living Trees, unlike other currencies which are based on gold or pure speculation.\
+The reason is simple: a planet without trees is no living planet!\
+Therefore the **Tree Coin®** is a true **hymn to life**: it may sustain ecosystem benefits of trees and related forestry wildlife and CO² reduction to sustain the world population.\
+In fact, in less than 30 years, at a rate of increase is estimated at **81 million people per year the** world will count on a population of [about 8 billions of humans](https://www.worldometers.info/world-population/) of which **851,331,777 undernourished** according to the [State of world food insecurity by FAO](https://www.fao.org/publications/sofi/en/).
 
 ## **Tree Coin®** in a nutshell
 
@@ -69,7 +75,7 @@ The **Tree Coin® (TREE)** is an ECOLOGICAL and completely ethical CREDIT and th
 
 ### Trees Benefit
 
-Trees provide enormous ecosystem benefits, such as reduction of atmospheric CO2, global warming, air refreshment and purification, supporting and hosting the life of cross-pollinators, like bees, essential for agriculture and pollination of fruits and vegetables. Therefore the credit-currency aims to allow anyone to be a beneficiary, administrator and protector of land and trees, especially to keep them safe from cutting, which has become a noxious practice...
+Trees provide enormous ecosystem benefits, such as reduction of atmospheric CO², global warming, air refreshment and purification, supporting and hosting the life of cross-pollinators, like bees, essential for agriculture and pollination of fruits and vegetables. Therefore the credit-currency aims to allow anyone to be a beneficiary, administrator and protector of land and trees, especially to keep them safe from cutting, which has become a noxious practice...
 
 Holding trees means holding life and the **Tree Coin® is therefore the perfect instrument for a new economy** based on:
 
