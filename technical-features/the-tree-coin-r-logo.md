@@ -4,15 +4,7 @@ The Tree Coin® logo is designed by a totally automated script based on algorith
 
 It enriches the symbolic value of the Tree Coin® itself by underlying the real value of tree life for the entire Planet.
 
-Like paper money are printed with faces, that provides the trust, printed Tree Credits have trees dynamically generated, based on the amount, the current moon and the season.
+#### Sample logos
 
-Basically, just seeing the paper-credit drawing you can guess:
+![Autumn](../.gitbook/assets/autumn\_500.png) ![Winter](../.gitbook/assets/winter\_500.png) ![Spring](../.gitbook/assets/spring\_500.png) ![Summer](../.gitbook/assets/summer\_500.png)
 
-* **The season**\
-  from the tree colour
-* **The moon phase**\
-  drawn behind
-* **The amount**\
-  by the abundance of the foliage (not yet in the example above)
-
-The generation date is printed below the drawn tree.
