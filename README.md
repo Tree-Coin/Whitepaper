@@ -26,16 +26,16 @@ You can see the text "Debit" as declaration of the current economic paradigm](<.
 
 ## **The solution** <a href="#10f8" id="10f8"></a>
 
-In a world based a negative scale, all resources are made by plunder the nature.\
-In the same time we assist to an irreparable negative trend of all economies of the world, because all economies are based on the same paradigm: **debit and resource depredation**.
+In a world based a **negative scale**, all resources are made by plunder the nature.\
+In the same time we assist to an irreparable negative trend of all economies of the world, because all economies are based on the same paradigm: **recursive debit and resource depredation**.
 
 **This is not we want anymore, so the key is pretty simple: let's do the exact opposite!**
 
 
 
-### The key: credit and tree protection
+### Credit and tree protection together
 
-We thought of a **totally opposite economic system**, therefore parallel and independent from the current one, supported by the principle of cryptocurrencies but independent from all global FIAT currencies and easy scalable between current crypto chains: the Tree Coin®.
+We thought of a **totally opposite economic system**, therefore parallel and independent from the current one, supported by the principle of cryptocurrencies but independent from all global FIAT currencies and easy scalable between current crypto chains: the **Tree Coin®**.
 
 The **Tree Coin**®, with its free ecological sustainability aims to become the concrete ecological platform for linking sustainable development, providing effective supply at the service of ecological benefits, protecting healthy tree from burning, is therefore the key for allow cross-pollinators (insects) being harboured in freshness and from their nets pollinate the various flowers and agricultural crops.\
 Bees need trees: and we all know the Einstein’s Say: "4 years after the bees collapse, mankind will be over".
@@ -73,36 +73,6 @@ The **Tree Coin® (TREE)** is an ECOLOGICAL and completely ethical CREDIT and th
 
 
 
-### Trees Benefit
-
-Trees provide enormous ecosystem benefits, such as reduction of atmospheric CO₂, global warming, air refreshment and purification, supporting and hosting the life of cross-pollinators, like bees, essential for agriculture and pollination of fruits and vegetables. Therefore the credit-currency aims to allow anyone to be a beneficiary, administrator and protector of land and trees, especially to keep them safe from cutting, which has become a noxious practice...
-
-Holding trees means holding life and the **Tree Coin® is therefore the perfect instrument for a new economy** based on:
-
-* agriculture
-* food and water
-* environmental restoration
-* reforestation
-* reduction of climate change
-* post-pandemic recovery and sustainable development
-* eco-villages sustainable circular economy, based on real economy goods
-
-
-
-{% hint style="info" %}
-**The main goal of Tree Coin® is the attainment of ecological and social well-being**
-{% endhint %}
-
-****
-
-### Trees for All – Tree Coin® for All
-
-The Tree Coin® shall be distributed, as a gift or under free subscription, to Associations, Eco-villages, Tree-keepers and volunteers.
-
-It has no fixed monetary or crypto value and will be not traded and speculated on exchanges being a circular internal ECOLOGICAL CREDIT
-
-**Requirements**: anyhow possessing **Tree Coin®** must engage in protecting trees and when possible to plant new trees in any possible occasion. Forestry and Logger Industries and wood-product manufacturers (if not Eco-labeled for recycling only wooden wastes, without affecting living trees) cannot possess **Tree Coin®.**
-
 ## Financing Eco-villages
 
 We do not produce _shitcoins_ and we do not want to steal money to no one, so we do not ask to buy or exchange money for our crypto.\
@@ -110,6 +80,3 @@ If you want you can support our project but is totally different from selling or
 
 Eco-villages are the future of new sustainable economy and societal aggregation and therefore the **Tree Coin®** is also perfect for funding the establishment, keeping and growth of Eco-villages and for the sustaining of their circular economy: they may be exchanged to buy goods and exchange services and reward volunteering work for environmental protection as well as for guaranteeing long term social welfare, and therefore allowing overall economical and ecological sustainable development from local to global scale, as also foreseen by Multilateral Agencies, Nongovernmental Organizations and CBOs (Community Based Organizations), always in ethical, consensual, non monetary (debt) way.
 
-## How to Get Tree Coin®
-
-Simply contact your nearest Ecovillage’s Association, if adherent to this ethical project and visit our website [http://treecoin.online](http://treecoin.online)
