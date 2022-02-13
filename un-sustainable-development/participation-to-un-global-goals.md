@@ -29,5 +29,5 @@ The United Nations Sustainable Development Goals are 17:
 The Tree Coin® is deemed to work on the three main following axis:
 
 1. Reforestation, and Life on Earth ([SDG 15](https://en.wikipedia.org/wiki/Sustainable\_Development\_Goal\_15))
-2. Reduction of CO2 and Climate Change ([SDG 13](https://en.wikipedia.org/wiki/Sustainable\_Development\_Goal\_13))
+2. Reduction of CO₂ and Climate Change ([SDG 13](https://en.wikipedia.org/wiki/Sustainable\_Development\_Goal\_13))
 3. Post Pandemic Recovery and General well-being ([SDG 3](https://en.wikipedia.org/wiki/Sustainable\_Development\_Goal\_3))

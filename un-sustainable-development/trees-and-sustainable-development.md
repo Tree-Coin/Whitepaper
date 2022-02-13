@@ -1,7 +1,7 @@
 # Trees and Sustainable Development
 
-In our concept trees are essentially source of life, animal shelter and ecological baseline, since they reduce Co² emissions and release the oxygen we breath.\
-When someone considers trees as renewable fuel or "biomasses" for producing electricity, this is simply a nonsense, because burning a tree releases 150% CO² of fossil Coal and therefore this practice is highly detrimental for global warming (PFPI, Biomass is the New Coal, 2014).
+In our concept trees are essentially source of life, animal shelter and ecological baseline, since they reduce CO₂ emissions and release the oxygen we breath.\
+When someone considers trees as renewable fuel or "biomasses" for producing electricity, this is simply a nonsense, because burning a tree releases 150% CO₂ of fossil Coal and therefore this practice is highly detrimental for global warming (PFPI, Biomass is the New Coal, 2014).
 
 Bio-energy has traditionally been used by certain sectors such as the paper-making industry but a lot of new wood burning plants have in the US, more than 70 new wood-burning plants have been built or are underway since 2005, and another 75 proposed and in various stages of development, fuelled by renewable energy subsidies and federal tax credits.\
 In most states, biomass power is subsidized along with solar and wind as green, renewable energy, and biomass plant developers routinely tell host communities that biomass power is "clean energy".\
@@ -9,8 +9,8 @@ But this first-ever detailed analysis of the bioenergy industry reveals that the
 Comparison of permits from modern coal, biomass, and gas plants shows that even the "cleanest" biomass plants can emit >150% the nitrogen oxides, >600% the volatile organic compounds, >190% the particulate matter, and > 125% the carbon monoxide of a coal plant per megawatt-hour, although coal produces more sulfur dioxide (SO2).\
 Emissions from a biomass plant exceed those from a natural gas plant by more than 800% for every major pollutant (ibidem).
 
-Biomass power plants are also a danger to the climate, emitting nearly 50 percent more CO² per megawatt generated than the next biggest carbon polluter, coal.\
-Emissions of CO² from biomass burning can theoretically be offset over time, but such offsets typically take decades to fully compensate for the CO², rapidly injected into the atmosphere during plant operation.
+Biomass power plants are also a danger to the climate, emitting nearly 50 percent more CO₂ per megawatt generated than the next biggest carbon polluter, coal.\
+Emissions of CO₂ from biomass burning can theoretically be offset over time, but such offsets typically take decades to fully compensate for the CO₂, rapidly injected into the atmosphere during plant operation.
 
 Compounding the problem, bioenergy facilities take advantage of gaping loopholes in the Clean Air Act and lax regulation by the EPA and state permitting agencies, which allow them to emit even more pollution.\
 Electricity generation that worsens air pollution and climate change is not what the public expects for its scarce renewable energy dollars.
@@ -30,8 +30,8 @@ In addition to that Under the biomass MACT rule, a major source biomass plant us
 
 Also a standing invitation of Scientist to the European Parliament points out the necessity to limit the term “biomass” only to ligneous residual and wastes.
 
-#### According to Scientists there is need of 1 trillion trees to reduce atmospheric CO².
+#### According to Scientists there is need of 1 trillion trees to reduce atmospheric CO₂.
 
-Interpolating the 1,633,502 hectares of Forest loss and [35,753,305,000 of CO² emissions (tons)](https://www.worldometers.info/co2-emissions/), the 3,769,240 hectares of Desertification as well as 3,075,819 tons of Toxic chemicals released in the environment this year only ([www.wordometers.info](http://www.wordometers.info)) we urge an adequate approach to revert these economic trends and ensure sustainable development for all.
+Interpolating the 1,633,502 hectares of Forest loss and [35,753,305,000 of CO₂ emissions (tons)](https://www.worldometers.info/co2-emissions/), the 3,769,240 hectares of Desertification as well as 3,075,819 tons of Toxic chemicals released in the environment this year only ([www.wordometers.info](http://www.wordometers.info)) we urge an adequate approach to revert these economic trends and ensure sustainable development for all.
 
 Follow the [Global Forest Resources Assessments](https://www.fao.org/forest-resources-assessment/en/).

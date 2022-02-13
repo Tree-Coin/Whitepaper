@@ -44,7 +44,7 @@ Bees need trees: and we all know the Einstein’s Say: "4 years after the bees c
 
 The **Tree Coin®** value is based on consensus on fair and ethical ecological benefit of Biological produce and Living Trees, unlike other currencies which are based on gold or pure speculation.\
 The reason is simple: a planet without trees is no living planet!\
-Therefore the **Tree Coin®** is a true **hymn to life**: it may sustain ecosystem benefits of trees and related forestry wildlife and CO² reduction to sustain the world population.\
+Therefore the **Tree Coin®** is a true **hymn to life**: it may sustain ecosystem benefits of trees and related forestry wildlife and CO₂ reduction to sustain the world population.\
 In fact, in less than 30 years, at a rate of increase is estimated at **81 million people per year the** world will count on a population of [about 8 billions of humans](https://www.worldometers.info/world-population/) of which **851,331,777 undernourished** according to the [State of world food insecurity by FAO](https://www.fao.org/publications/sofi/en/).
 
 ## **Tree Coin®** in a nutshell
@@ -75,7 +75,7 @@ The **Tree Coin® (TREE)** is an ECOLOGICAL and completely ethical CREDIT and th
 
 ### Trees Benefit
 
-Trees provide enormous ecosystem benefits, such as reduction of atmospheric CO², global warming, air refreshment and purification, supporting and hosting the life of cross-pollinators, like bees, essential for agriculture and pollination of fruits and vegetables. Therefore the credit-currency aims to allow anyone to be a beneficiary, administrator and protector of land and trees, especially to keep them safe from cutting, which has become a noxious practice...
+Trees provide enormous ecosystem benefits, such as reduction of atmospheric CO₂, global warming, air refreshment and purification, supporting and hosting the life of cross-pollinators, like bees, essential for agriculture and pollination of fruits and vegetables. Therefore the credit-currency aims to allow anyone to be a beneficiary, administrator and protector of land and trees, especially to keep them safe from cutting, which has become a noxious practice...
 
 Holding trees means holding life and the **Tree Coin® is therefore the perfect instrument for a new economy** based on:
 
