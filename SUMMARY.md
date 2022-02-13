@@ -2,7 +2,7 @@
 
 * [Introducing Tree Coin®](README.md)
 
-## 🌱 UN Sustainable Development
+## UN Sustainable Development
 
 * [Participation to UN Global Goals](un-sustainable-development/participation-to-un-global-goals.md)
 * [Trees and Sustainable Development](un-sustainable-development/trees-and-sustainable-development.md)
