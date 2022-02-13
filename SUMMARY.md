@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introducing Tree Coin®](README.md)
+* [Tree Coin Whitepaper](README.md)
 
 ## UN Sustainable Development
 
