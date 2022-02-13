@@ -45,23 +45,25 @@ The **Tree Coin®** value is based on consensus on fair and ethical ecological b
 
 The **Tree Coin® (TREE)** is an ECOLOGICAL and completely ethical CREDIT and therefore, in the legal and fiscal terms, **does not belong to the standard FIAT currencies and not-directly to other cryptocurrencies** for the following reasons:
 
-1. It has undetermined value and is granted for free or by free offer;
-2. It’s a circular economy based on CREDIT, thought to be spread through Associations, neighbour groups and ecovillages;
-3. Its value DOES NOT correspond to any FIAT currency or to other cryptocurrencies because is exclusively based on the consensus between humans, in order to favourite the exchange of real economy goods;
-4. It is a **barter facilitator**, a third numerical parameter NOT a Currency: you cannot exchange or buy the CREDIT by itself, but you can use it for make donations or do comparisons;
-5. The credit granting paradigm means **giving before asking for a service** and not paying after it is done. So if you entitle someone the task to do something for you, you are granting trust and energy for a certain period of time.\
-   You give credit for something after which you can confirm it, renew or revoke... STOP SCAMS!
-6. **Credits are linked to moon and solar phases**, as each goods of our Mother Earth;
-7. Is **a real circular economy** and you can't ever go down less zero: it represents "how much we can do", so the total amount is algorithmically designed to renew itself periodically. This means that you can spend all that you have and see your credit periodically resetted to the initial amount, because you are a human being and so until you are not able, you cannot lose the will to do stuff!
-8. **You can print paper-credits by yourself!**\
-   ****Really, as example you can generate and print your custom check-notes of 17,88 Tree Credits and/or different amounts… What’s really important is the generated hash (token) linked to the chain and finally printed by you.\
-   Once a paper-credit is generated, a generic trust is created, and it’s free to circulate hand-by-hand until someone claim it back to its own digital account, after that the serial is marked as **ALREADY USED** or **EXPIRED**.
-9. Any credit note has its own generated tree depicted, so what you generate can become an NFT, which is a potential infinite credit...\
-   \
-   NOTE: If you have a laser printer, you can have fun by creating your sustainable wood-credit-note or “a real leaf-note”, you can paint a picture with enriched credit value (the token) or knit a dress with a valid credit token… As with nature products, there’s no limit of what you can do…\
-   We provide all the needed software to do it.\
+> 1. It has undetermined value and is granted for free or by free offer;
+> 2. It’s a circular economy based on CREDIT, thought to be spread through Associations, neighbour groups and ecovillages;
+> 3. Its value DOES NOT correspond to any FIAT currency or to other cryptocurrencies because is exclusively based on the consensus between humans, in order to favourite the exchange of real economy goods;
+> 4. It is a **barter facilitator**, a third numerical parameter NOT a Currency: you cannot exchange or buy the CREDIT by itself, but you can use it for make donations or do comparisons;
+> 5. The credit granting paradigm means **giving before asking for a service** and not paying after it is done. So if you entitle someone the task to do something for you, you are granting trust and energy for a certain period of time.\
+>    You give credit for something after which you can confirm it, renew or revoke... STOP SCAMS!
+> 6. **Credits are linked to moon and solar phases**, as each goods of our Mother Earth;
+> 7. Is **a real circular economy** and you can't ever go down less zero: it represents "how much we can do", so the total amount is algorithmically designed to renew itself periodically. This means that you can spend all that you have and see your credit periodically resetted to the initial amount, because you are a human being and so until you are not able, you cannot lose the will to do stuff!
+> 8. **You can print paper-credits by yourself!**\
+>    ****Really, as example you can generate and print your custom check-notes of 17,88 Tree Credits and/or different amounts… What’s really important is the generated hash (token) linked to the chain and finally printed by you.\
+>    Once a paper-credit is generated, a generic trust is created, and it’s free to circulate hand-by-hand until someone claim it back to its own digital account, after that the serial is marked as **ALREADY USED** or **EXPIRED**.
+> 9. Any credit note has its own generated tree depicted, so what you generate can become an NFT, which is a potential infinite credit...\
+>    \
+>    `NOTE: If you have a laser printer, you can have fun by creating your sustainable wood-credit-note or “a real leaf-note”, you can paint a picture with enriched credit value (the token) or knit a dress with a valid credit token… As with nature products, there’s no limit of what you can do…`\
+>    `We will provide all the needed software to do it.`\
+>
+> 10. Open Source System: both graphics and codes are released as Open Source softwares and creations!
 
-10. OPEN SOURCE SYSTEM: Both graphics and codes are released as Open Source softwares and creations!
+
 
 ### Trees Benefit
 
@@ -77,7 +79,7 @@ Holding trees means holding life and the **Tree Coin® is therefore the perfect 
 * post-pandemic recovery and sustainable development
 * eco-villages sustainable circular economy, based on real economy goods
 
-**The main goal of Tree Coin® is the attainment of ecological and social well-being.**
+> **The main goal of Tree Coin® is the attainment of ecological and social well-being.**
 
 ### Trees for All – Tree Coin® for All
 
