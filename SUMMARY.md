@@ -4,8 +4,8 @@
 
 ## Technical features
 
-* [The Tree Coin® logo](technical-features/the-tree-coin-r-logo.md)
-* [The Tree Coin® credit-note](technical-features/the-tree-coin-r-credit-note.md)
+* [The Tree Coin logo](technical-features/the-tree-coin-logo.md)
+* [The Tree Coin credit-note](technical-features/the-tree-coin-credit-note.md)
 * [Table of proposed barter ratio per Tree Coin®](technical-features/table-of-proposed-barter-ratio-per-tree-coin-r.md)
 
 ## UN Sustainable Development
