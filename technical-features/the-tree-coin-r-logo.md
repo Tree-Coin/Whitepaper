@@ -1,6 +1,6 @@
 # The Tree Coin® logo
 
-The Tree Coin® logo is designed by a totally automated script based on algorithms, which changes color at every season’s: brilliant in Spring and Summer, brownish in Autumn and Winter... like a living tree!!!
+The Tree Coin® logo is designed by a [totally automated script based on algorithms](https://github.com/Tree-Coin/Logo), which changes color at every season’s: brilliant in Spring and Summer, brownish in Autumn and Winter... like a living tree!!!
 
 It enriches the symbolic value of the Tree Coin® itself by underlying the real value of tree life for the entire Planet.
 
