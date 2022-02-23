@@ -15,6 +15,7 @@
 
 ## 📖 Our philosophy
 
+* [The Debit Problem](our-philosophy/the-debit-problem.md)
 * [Trees Benefit](our-philosophy/trees-benefit.md)
 * [Requirements](our-philosophy/requirements.md)
 * [Governance](our-philosophy/governance.md)
