@@ -8,7 +8,7 @@ description: >-
 
 
 
-The Tree Coin® is an alternative super ethical economic model linked on a crypto, based on CREDIT, on sustainability, on mutual trust, respect for others and Mother Nature.
+The Tree Coin® is an alternative super ethical economic model linked to a crypto, based on CREDIT, on sustainability, on mutual trust, respect for others and Mother Nature.
 
 Forget economic troubles, you can generate your credit-note by yourself and share it with your circles as alternative payment method.
 
