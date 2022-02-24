@@ -6,13 +6,13 @@ description: >-
 
 # Tree Coin Whitepaper
 
+The Tree Coin® is an alternative solidarity model linked to an electronic symbol, the Tree Coin Logo, as academic Non-Financial, Non-Monetary, Non-Currency solidarity experiment.\
+Its a solidarity symbol.\
+I's based on CREDIT, on sustainability, on mutual trust, respect for others and Mother Nature.
 
+Forget economic troubles, you can generate your \[ethical-artistic-note] by yourself and share it with your circles as alternative collaborative instrument.
 
-The Tree Coin® is an alternative economic model linked to a crypto, based on CREDIT, on sustainability, on mutual trust, respect for others and Mother Nature.
-
-Forget economic troubles, you can generate your credit-note by yourself and share it with your circles as alternative payment method.
-
-You cannot own less than 1'000 TREE, so on each lunar phase your wallet will be restored automatically.
+Tree Coin maybe freely experimented following the lunar phases and regenerated every lunar cycle, as the plants in Mother Nature.
 
 ****
 
@@ -20,7 +20,7 @@ You cannot own less than 1'000 TREE, so on each lunar phase your wallet will be 
 
 * [The Tree Coin logo](technical-features/the-tree-coin-logo.md)
 * [The Tree Coin credit-note](technical-features/the-tree-coin-credit-note.md)
-* [Table of proposed barter ratio per Tree Coin](technical-features/table-of-proposed-barter-ratio-per-tree-coin.md)
+* [Table of proposed barter ratio per Tree Coin](table-of-proposed-barter-ratio-per-tree-coin.md)
 
 #### **Our Philosophy** <a href="#10f8" id="10f8"></a>
 
