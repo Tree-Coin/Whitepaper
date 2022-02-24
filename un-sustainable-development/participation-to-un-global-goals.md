@@ -2,7 +2,7 @@
 
 
 
-The **Tree Coin® (TREE)** can therefore allow anyone attaining the goal of possessing land and trees, as well as to establish Eco-villages, relying on the concept of Sustainable Development and Climate Change reduction and better life conditions, in attainment of the United Nations Sustainable Development Goals (SDGs), promulgated by the United Nations General Assembly on 25 September 2015.
+The **Tree Coin® (TREE)** project **** allow anyone attaining the goal of possessing land and trees, as well as to establish Eco-villages, relying on the concept of Sustainable Development and Climate Change reduction and better life conditions, in attainment of the United Nations Sustainable Development Goals (SDGs), promulgated by the United Nations General Assembly on 25 September 2015.
 
 The United Nations Sustainable Development Goals are 17:
 
