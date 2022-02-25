@@ -39,7 +39,7 @@ The Tree Coin® project works on three main following UN Global Goals:
 
 * [The Tree Coin logo](technical-features/the-tree-coin-logo.md)
 * [The Tree Coin credit-note](technical-features/the-tree-coin-credit-note.md)
-* [Table of proposed barter ratio per Tree Coin](table-of-proposed-barter-ratio-per-tree-coin.md)
+* [Table of proposed barter ratio per Tree Coin](technical-features/table-of-proposed-barter-ratio-per-tree-coin.md)
 
 #### **Our Philosophy** <a href="#10f8" id="10f8"></a>
 

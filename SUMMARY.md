@@ -1,12 +1,12 @@
 # Table of contents
 
 * [Tree Coin Whitepaper](README.md)
-* [Table of proposed barter ratio per Tree Coin](table-of-proposed-barter-ratio-per-tree-coin.md)
 
 ## Technical features
 
 * [The Tree Coin logo](technical-features/the-tree-coin-logo.md)
 * [The Tree Coin credit-note](technical-features/the-tree-coin-credit-note.md)
+* [Table of proposed barter ratio per Tree Coin](technical-features/table-of-proposed-barter-ratio-per-tree-coin.md)
 
 ## 📖 Our philosophy
 
