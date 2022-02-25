@@ -2,6 +2,8 @@
 description: >-
   An alternative economic system for financing Tree protection, Eco-villages and
   Sustainability
+cover: .gitbook/assets/tree coin logo banner.jpg
+coverY: 1.5128593040847202
 ---
 
 # Tree Coin Whitepaper
