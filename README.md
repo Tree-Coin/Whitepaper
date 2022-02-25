@@ -7,8 +7,8 @@ description: >-
 # Tree Coin Whitepaper
 
 The Tree Coin® is an alternative solidarity model linked to an electronic symbol, the Tree Coin Logo, as academic Non-Financial, Non-Monetary, Non-Currency solidarity experiment.\
-It's a solidarity symbol.\
-It's based on CREDIT, on sustainability, on mutual trust, respect for others and Mother Nature.
+It's a non-exchangeable electronic instrument, deemed to facilitate ethical approvisionnement of basic goods trough ethical barter.\
+It's a solidarity symbol, based on CREDIT, on sustainability, on mutual trust, respect for others and Mother Nature.
 
 Forget economic troubles, you can generate your \[ethical-artistic-note] by yourself and share it with your circles as alternative collaborative instrument.
 
