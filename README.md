@@ -7,12 +7,15 @@ description: >-
 # Tree Coin Whitepaper
 
 The Tree Coin® is an alternative solidarity model linked to an electronic symbol, the Tree Coin Logo, as academic Non-Financial, Non-Monetary, Non-Currency solidarity experiment.\
-It's a non-exchangeable electronic instrument, deemed to facilitate ethical approvisionnement of basic goods trough ethical barter.\
+It's a non-exchangeable electronic instrument, deemed to facilitate ethical approvisionement of basic goods trough ethical barter.\
 It's a solidarity symbol, based on CREDIT, on sustainability, on mutual trust, respect for others and Mother Nature.
 
-Forget economic troubles, you can generate your \[ethical-artistic-note] by yourself and share it with your circles as alternative collaborative instrument.
+The Tree Coin® is not a money.\
+The Tree Coin® is a symbol to facilitate barter.
 
-The Tree Coin maybe freely experimented following the lunar phases and regenerated every lunar cycle (28 days), as the plants in Mother Nature.
+Whith the Tree Coin® you can generate your \[ethical-artistic-note] by yourself and share it with your circles as alternative collaborative instrument.
+
+The Tree Coin® follow lunar phases and regenerates the minimum amount of each wallet (1000 TREE) every lunar cycle (28 days), as the plants in Mother Nature.
 
 ****
 
