@@ -13,7 +13,8 @@ It's a non-exchangeable electronic instrument, deemed to facilitate ethical appr
 It's a solidarity symbol, based on CREDIT, on sustainability, on mutual trust, respect for others and Mother Nature.
 
 The Tree Coin® is not a money.\
-The Tree Coin® is a symbol to facilitate barter.
+The Tree Coin® is a symbol to facilitate barter.\
+The Tree Coin® is a credit note.
 
 With the Tree Coin® you can generate your \[ethical-artistic-note] by yourself and share it with your circles as alternative collaborative instrument.
 
@@ -25,7 +26,7 @@ You cannot never own less than zero, and it's specifically designed for emerging
 ![Sieben Linden Ecovillage behind the yurts of "Globolo"
 Image courtesy Wikipedia](<.gitbook/assets/immagine (4).png>)
 
-The Tree Coin® (TREE) **** project **** allow anyone attaining the goal of possessing land and trees, as well as to establish eco-villages, relying on the concept of Sustainable Development and Climate Change reduction and better life conditions, in attainment of the United Nations Sustainable Development Goals (SDGs), promulgated by the United Nations General Assembly on 25 September 2015.
+The Tree Coin® project **** allow anyone attaining the goal of possessing land and trees, as well as to establish eco-villages, relying on the concept of Sustainable Development and Climate Change reduction and better life conditions, in attainment of the United Nations Sustainable Development Goals (SDGs), promulgated by the United Nations General Assembly on 25 September 2015.
 
 The Tree Coin® project works on three main following UN Global Goals:
 
