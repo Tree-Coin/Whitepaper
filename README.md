@@ -2,7 +2,7 @@
 description: >-
   An alternative economic system for financing Tree protection, Eco-villages and
   Sustainability
-cover: .gitbook/assets/tree coin logo banner.jpg
+cover: .gitbook/assets/tree coin logo banner2.png
 coverY: 1.5128593040847202
 ---
 
