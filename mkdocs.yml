@@ -23,14 +23,14 @@ extra_css:
 nav:
   - Home: 'index.md'
   - Our philosophy:
-    - Governance: 'our-philosophy/governance.md'
+    # - Governance: 'our-philosophy/governance.md'
     - Requirements: 'our-philosophy/requirements.md'
     - The debit problem: 'our-philosophy/the-debit-problem.md'
     - Trees benefit: 'our-philosophy/trees-benefit.md'
   - Technical features:
     - The Tree Coin logo: 'technical-features/the-tree-coin-logo.md'
-    - The Tree Coin credit-representation: 'technical-features/the-tree-coin-credit-representation.md'
     - Technical plotting details: 'technical-features/technical-plotting-details.md'
+    - The Tree Coin credit-representation: 'technical-features/the-tree-credit-representation.md'
     - Table of barter ratio: 'technical-features/table-of-proposed-barter-ratio-per-tree-coin.md'
   - UN Sustainable Development:
     - Trees and sustainable development: 'un-sustainable-development/trees-and-sustainable-development.md'

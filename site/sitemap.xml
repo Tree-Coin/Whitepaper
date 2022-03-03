@@ -6,11 +6,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://whitepaper.treecoin.online/SUMMARY/</loc>
-         <lastmod>2022-03-03</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://whitepaper.treecoin.online/our-philosophy/governance/</loc>
          <lastmod>2022-03-03</lastmod>
          <changefreq>daily</changefreq>
@@ -36,7 +31,7 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://whitepaper.treecoin.online/technical-features/technical%20plotting%20details/</loc>
+         <loc>https://whitepaper.treecoin.online/technical-features/technical-plotting-details/</loc>
          <lastmod>2022-03-03</lastmod>
          <changefreq>daily</changefreq>
     </url>

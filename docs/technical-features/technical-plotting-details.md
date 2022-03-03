@@ -1,4 +1,4 @@
-
+# Technical plotting details
 ## Branching algorithm
 The principle is simple: *plot lines following an algorithm*, and we have done with following principle:<br>
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/kkGeOWYOFoA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -11,12 +11,58 @@ The roots direction formula follow the [regular triangular formula](https://refe
 <blockquote>
 <tt>(+30<sub><i>deg</i></sub>-60<sub><i>deg</i></sub>)+30<sub><i>deg</i></sub></tt>
 </blockquote>
-which means:<br>
+which means, in computational scripting, to launch an execution that:<br>
 `do recursively of <n> steps: go right forward and plot at 30 deg - then stop and go left of 60deg - then go back of 30deg`
 
----
+<br>
+
 
 ### Programmation example
+Following a simple Python script that execute what said before:
+``` python
+def roots(branchLen, pen, window):
+    if branchLen > 1:
+        #
+        # Generate the first branch
+        # ----------------------------------
+        pen.pencolor(colours.grey_colours(branchLen))
+
+        if (branchLen > 60):
+            pen.width(branchLen/4)
+        else:
+            pen.width(branchLen/5)
+
+        if (branchLen < 90):
+            pen.forward(branchLen)
+
+        pen.right(30)
+        # ----------------------------------
+
+        #
+        # Generate the second branch
+        # ----------------------------------
+        roots(branchLen-10, pen, window)
+
+        pen.left(60)
+        pen.pencolor(254, 254, 254)
+        # ----------------------------------
+
+        #
+        # Generate the third branch
+        # ----------------------------------
+        roots(branchLen-10, pen, window)
+
+        pen.right(30)
+        if(branchLen <= 10):
+            pen.width(2)
+            pen.down()
+        else:
+            pen.width(1)
+            pen.down()
+
+        pen.backward(branchLen)
+        # ----------------------------------
+```
 
 ---
 
@@ -32,7 +78,7 @@ Roots represents the [dual cosmology](https://en.wikipedia.org/wiki/Dualism_in_c
 <br />
 
 <figure markdown>
-  ![Image title](../../_img/roots_animation.gif){ align=right width=300 }
+  ![Roots draw](../_img/roots_animation.gif){ align=right width=300 }
 
   <div style="text-align: left;">
     Tree roots have a dynamic grey colour related of a fourth of each step, and the colour is a random value between <code>250</code> and <code>255</code> for each rgb value.<br />
