@@ -1,0 +1,133 @@
+site_name: Tree Coin Whitepaper
+site_url: https://whitepaper.treecoin.online
+site_description: 'An alternative economic system for financing Tree protection, Eco-villages and Sustainability'
+site_author: 'The Tree Coin Roots collective'
+copyright: '2022 Tree Coin'
+repo_name: 'GitHub'
+repo_url: https://github.com/Tree-Coin/Whitepaper/
+# edit_uri: edit/mkdocs/docs/
+edit_uri: ""
+docs_dir: 'docs'
+use_directory_urls: true
+dev_addr: '127.0.0.1:8000'
+copyright: Copyright &copy; 2022 Tree Coin
+extra:
+  generator: false
+  version: 4.7.7
+  social:
+    # - icon: fontawesome/brands/twitter
+    #   link: https://twitter.com/squidfunk
+    #   name: squidfunk on Twitter
+extra_css:
+  - _css/extra.css
+nav:
+  - Home: 'index.md'
+  - Our philosophy:
+    - Governance: 'our-philosophy/governance.md'
+    - Requirements: 'our-philosophy/requirements.md'
+    - The debit problem: 'our-philosophy/the-debit-problem.md'
+    - Trees benefit: 'our-philosophy/trees-benefit.md'
+  - Technical features:
+    - The Tree Coin logo: 'technical-features/the-tree-coin-logo.md'
+    - The Tree Coin credit-representation: 'technical-features/the-tree-coin-credit-representation.md'
+    - Technical plotting details: 'technical-features/technical-plotting-details.md'
+    - Table of barter ratio: 'technical-features/table-of-proposed-barter-ratio-per-tree-coin.md'
+  - UN Sustainable Development:
+    - Trees and sustainable development: 'un-sustainable-development/trees-and-sustainable-development.md'
+    - Participation to UN Global Goals: 'un-sustainable-development/participation-to-un-global-goals.md'
+markdown_extensions:
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+      options:
+        custom_icons:
+          - overrides/.icons
+theme:
+  name: material
+  font:
+    text: Roboto
+    code: Roboto Mono
+  features:
+    - tabs
+    - instant
+    # - navigation.instant
+    - navigation.expand
+    - navigation.indexes
+    - toc.follow
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - header.autohide
+  logo: _img/spring_500.png
+  favicon: _img/favicon.ico
+  icon:
+    repo: fontawesome/brands/github
+  language: en
+  highlightjs: true
+  palette:
+    - scheme: default
+      primary: white
+      accent: lime
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: green
+      accent: teal
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+plugins:
+  - search
+  - awesome-pages:
+      collapse_single_pages: false
+  - mkdocs-nav-enhancements
+  - exclude:
+      glob:
+        # - exclude/this/path/*
+        # - '*.tmp'
+        # - '*.pdf'
+        # - '*.gz'
+      regex:
+        # - '.*\.(tmp|bin|tar)$'
+  - git-revision-date
+markdown_extensions:
+  - abbr
+  - attr_list
+  - codehilite
+  - def_list
+  - fontawesome_markdown
+  - footnotes
+  - meta
+  - md_in_html
+  - smarty
+  # - toc:
+  #     permalink: true
+  #     separator: "_"
+  - sane_lists
+  - admonition
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.superfences
+  - pymdownx.arithmatex:
+      generic: true
+  - tables
+  - pymdownx.tasklist:
+      custom_checkbox: false
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+extra_javascript:
+  - _js/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
