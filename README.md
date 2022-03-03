@@ -1,5 +1,8 @@
 <img src="docs/_img/tree_coin_logo_banner3.jpg" class=img-responsive>
-`Online version: https://whitepaper.treecoin.online`
+
+<p align="right">
+<tt>Warning - this repo is synced with the online version here: <a href="https://whitepaper.treecoin.online">https://whitepaper.treecoin.online</a></tt>
+</p>
 
 # Tree Coin Whitepaper
 The Tree Coin<sup>®</sup> is an alternative solidarity model linked to an electronic symbol, the Tree Coin Logo, as academic Non-Financial, Non-Monetary, Non-Currency solidarity experiment.<br /> It's a non-exchangeable electronic instrument, deemed to facilitate ethical approvisionnement of basic goods trough ethical barter.<br /> It's a solidarity symbol, based on CREDIT, on sustainability, on mutual trust, respect for others and Mother Nature.
