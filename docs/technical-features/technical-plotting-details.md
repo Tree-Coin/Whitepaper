@@ -1,6 +1,6 @@
 # Technical plotting details
 ## Branching algorithm
-The principle is simple: *plot lines following an algorithm*, and we have done with following principle:<br>
+The principle is simple: *plot lines following an algorithm*, and we have done by keeping these principles:<br>
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/kkGeOWYOFoA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
