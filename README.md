@@ -1,6 +1,4 @@
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
-
-<img src="_img/tree_coin_logo_banner3.jpg" class=img-responsive>
+<img src="docs/_img/tree_coin_logo_banner3.jpg" class=img-responsive>
 
 # Tree Coin Whitepaper
 
@@ -27,7 +25,7 @@ The Tree Coin<sup>®</sup> follow lunar phases and regenerates the minimum amoun
 ---
 
 <figure markdown>
-  <img alt="Sieben Linden Ecovillage behind the yurts of &quot;Globolo&quot; - Image courtesy Wikipedia" src="_img/immagine (4).png" />
+  <img alt="Sieben Linden Ecovillage behind the yurts of &quot;Globolo&quot; - Image courtesy Wikipedia" src="docs/_img/immagine (4).png" />
   <figcaption><a target="_blank" href="https://commons.wikimedia.org/wiki/Category:Okodorf_Sieben_Linden">Sieben Linden Ecovillage</a> behind the yurts of "Globolo"<br />Image courtesy <a target="_blank" href="https://en.wikipedia.org/wiki/Ecovillage#/media/File:004A_mwuerfel.jpg">Wikipedia</a></figcaption>
 </figure>
 
