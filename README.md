@@ -31,4 +31,4 @@ The Tree Coin<sup>®</sup> project works in attainment of the United Nations Sus
 
 <br>
 
-→ [Read about our participation to UN Global Goals](https://whitepaper.treecoin.online/un-sustainable-development/participation-to-un-global-goals/)
+→ [Discover more on the official website](https://whitepaper.treecoin.online)
