@@ -4,30 +4,15 @@
 
 The Tree Coin<sup>®</sup> is an alternative solidarity model linked to an electronic symbol, the Tree Coin Logo, as academic Non-Financial, Non-Monetary, Non-Currency solidarity experiment.<br /> It's a non-exchangeable electronic instrument, deemed to facilitate ethical approvisionnement of basic goods trough ethical barter.<br /> It's a solidarity symbol, based on CREDIT, on sustainability, on mutual trust, respect for others and Mother Nature.
 
-<br>
-<br>
+* The Tree Coin is not a money
+* The Tree Coin is a symbol to facilitate barter
+* The Tree Coin is an ecological concept
 
-<div class="typewriter" style="text-align: center;">
-  <h2>
-    <p class="typewrite" data-type='[ "The Tree Coin is not a money", "The Tree Coin is a symbol to facilitate barter", "The Tree Coin is an ecological concept"]'>
-      <span class="wrap"></span>
-    </p>
-  </h2>
-</div>
-
-<br>
 <br>
 
 With the Tree Coin<sup>®</sup> you can generate your \[ethical-artistic-note] by yourself and share it with your circles as alternative collaborative instrument.
 
 The Tree Coin<sup>®</sup> follow lunar phases and regenerates the minimum amount 1000 TREE every lunar cycle (28 days), as the plants regenerates itself in Mother Nature.<br /> You cannot never own less than zero, and it's specifically designed for emerging realities such as eco-villages and rural areas.
-
----
-
-<figure markdown>
-  <img alt="Sieben Linden Ecovillage behind the yurts of &quot;Globolo&quot; - Image courtesy Wikipedia" src="docs/_img/immagine (4).png" />
-  <figcaption><a target="_blank" href="https://commons.wikimedia.org/wiki/Category:Okodorf_Sieben_Linden">Sieben Linden Ecovillage</a> behind the yurts of "Globolo"<br />Image courtesy <a target="_blank" href="https://en.wikipedia.org/wiki/Ecovillage#/media/File:004A_mwuerfel.jpg">Wikipedia</a></figcaption>
-</figure>
 
 The Tree Coin<sup>®</sup> project allow anyone attaining the goal of protecting land and trees, as well as to establish eco-villages, relying on the concept of Sustainable Development and Climate Change reduction and better life conditions, in attainment of the United Nations Sustainable Development Goals (SDGs), promulgated by the United Nations General Assembly on 25 September 2015.
 
@@ -43,24 +28,4 @@ The Tree Coin<sup>®</sup> project works in attainment of the United Nations Sus
 
 <br>
 
-[Read about the participation to UN Global Goals](./un-sustainable-development/participation-to-un-global-goals/){ .md-button }
-
-<!-- ---
-
-**Technical features**
-
--	[The Tree Coin logo](technical-features/the-tree-coin-logo.md)
--	[The Tree Coin credit-note](technical-features/the-tree-coin-credit-note.md)
--	[Table of proposed barter ratio per Tree Coin](technical-features/table-of-proposed-barter-ratio-per-tree-coin.md)
-
-**Our Philosophy**
-
--	[The Debit Problem](our-philosophy/the-debit-problem.md)
--	[Trees Benefit](our-philosophy/trees-benefit.md)
--	[Requirements](our-philosophy/requirements.md)
--	[Governance](our-philosophy/governance.md)
-
-**UN sustainable development**
-
--	[Participation to UN Global Goals](un-sustainable-development/participation-to-un-global-goals.md)
--	[Trees and Sustainable Development](un-sustainable-development/trees-and-sustainable-development.md) -->
+→ [Read about our participation to UN Global Goals](https://whitepaper.treecoin.online//un-sustainable-development/participation-to-un-global-goals/)
