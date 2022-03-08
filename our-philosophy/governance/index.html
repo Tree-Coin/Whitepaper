@@ -58,7 +58,7 @@
     
     
     
-    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="light-green" data-md-color-accent="lime">
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="white" data-md-color-accent="lime">
   
     
     
@@ -119,7 +119,7 @@
         
           
           
-          <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="light-green" data-md-color-accent="lime"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_1">
+          <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="white" data-md-color-accent="lime"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_1">
           
             <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_2" hidden>
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3 3.19.09m3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95 2.06.05m-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31z"/></svg>
@@ -128,7 +128,7 @@
         
           
           
-          <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="blue-grey" data-md-color-accent="teal"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_2">
+          <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="green" data-md-color-accent="teal"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_2">
           
             <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_1" hidden>
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0-7 2.39 3.42C13.65 5.15 12.84 5 12 5c-.84 0-1.65.15-2.39.42L12 2M3.34 7l4.16-.35A7.2 7.2 0 0 0 5.94 8.5c-.44.74-.69 1.5-.83 2.29L3.34 7m.02 10 1.76-3.77a7.131 7.131 0 0 0 2.38 4.14L3.36 17M20.65 7l-1.77 3.79a7.023 7.023 0 0 0-2.38-4.15l4.15.36m-.01 10-4.14.36c.59-.51 1.12-1.14 1.54-1.86.42-.73.69-1.5.83-2.29L20.64 17M12 22l-2.41-3.44c.74.27 1.55.44 2.41.44.82 0 1.63-.17 2.37-.44L12 22z"/></svg>
@@ -256,15 +256,19 @@
 
   
   
+    
+  
   
     
-    <li class="md-nav__item md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2" data-md-state="indeterminate" type="checkbox" id="__nav_2" checked>
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2" type="checkbox" id="__nav_2" checked>
       
       
       
+        
+          
         
           
         
@@ -285,6 +289,30 @@
           Our philosophy
         </label>
         <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        Governance
+      </a>
+      
+    </li>
+  
+
+            
           
             
               
@@ -379,7 +407,7 @@
   
     <li class="md-nav__item">
       <a href="../../technical-features/the-tree-coin-logo/" class="md-nav__link">
-        The Tree Coin<sup>®</sup> logo
+        The Tree Coin logo
       </a>
     </li>
   
@@ -393,7 +421,7 @@
   
     <li class="md-nav__item">
       <a href="../../technical-features/technical-plotting-details/" class="md-nav__link">
-        Technical plotting details
+        Branching algorithm
       </a>
     </li>
   
@@ -406,8 +434,8 @@
   
   
     <li class="md-nav__item">
-      <a href="../../technical-features/the-tree-credit-representation/" class="md-nav__link">
-        The tree credit representation
+      <a href="../../technical-features/the-tree-coin-credit-representation.md" class="md-nav__link">
+        The Tree Coin credit-representation
       </a>
     </li>
   
@@ -421,7 +449,7 @@
   
     <li class="md-nav__item">
       <a href="../../technical-features/table-of-proposed-barter-ratio-per-tree-coin/" class="md-nav__link">
-        Barter ratio per Tree Coin<sup>®</sup>
+        Barter ratio per Tree Coin
       </a>
     </li>
   
@@ -517,7 +545,7 @@
 
 
 <h1 id="governance">Governance</h1>
-<p>The Tree Coin<sup>®</sup> is a project led by <a href="https://baid.international" target="_blank"><img src="../../_img/logo Banca Internazionale per lo Sviluppo_35.jpg" style="vertical-align: bottom; margin-left: 5px;" /> BAID - Bank for International Development</a> with the goal to support populations development and sustain social alternatives.</p>
+<p>The Tree Coin is a project led by <a href="https://baid.international" target="_blank"><img src="../../_img/logo Banca Internazionale per lo Sviluppo_35.jpg" style="vertical-align: bottom; margin-left: 5px;" /> BAID - Bank for International Development</a> with the goal to support populations development and sustain social alternatives.</p>
 <p>BAID has the the aim of adequately serving the pursuit of sustainable development activities and providing international cooperation projects and programs with stable operational benchmarks as well as infrastructural support for the development of their humanitarian, ecological and sustainable activities, according to the <a href="https://sdgs.un.org/goals">UN/SDGsSustainable Development Goals</a>, promoted by the <a href="https://sustainabledevelopment.un.org/sdinaction/newsletter/september2015">United Nations General Assembly on September 25, 2015</a>.</p>
 <p>The BAID applies the highest ethical and quality standards in the management of development funds and the resources at its disposal.</p>
 
@@ -526,7 +554,7 @@
   <small>
     
       Last update:
-      2022-03-08
+      2022-03-03
     
   </small>
 </div>
@@ -544,6 +572,41 @@
       </main>
       
         <footer class="md-footer">
+  
+    <nav class="md-footer__inner md-grid" aria-label="Footer">
+      
+        
+        <a href="../.." class="md-footer__link md-footer__link--prev" aria-label="Previous: Tree Coin Whitepaper" rel="prev">
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+          </div>
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              Tree Coin Whitepaper
+            </div>
+          </div>
+        </a>
+      
+      
+        
+        <a href="../requirements/" class="md-footer__link md-footer__link--next" aria-label="Next: Tree Coins availablity" rel="next">
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              Tree Coins availablity
+            </div>
+          </div>
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4z"/></svg>
+          </div>
+        </a>
+      
+    </nav>
   
   <div class="md-footer-meta md-typeset">
     <div class="md-footer-meta__inner md-grid">

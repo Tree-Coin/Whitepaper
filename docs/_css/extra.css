@@ -1,0 +1,54 @@
+
+.md-nav__link {
+  display: block ruby;
+}
+
+figcaption {
+  font-size: 10pt !important;
+  font-style: normal !important;
+  margin: -0.75em auto 1em auto !important;
+}
+
+a:not([href*='localhost']):not([href*='127.0.0.1']):not([href*='whitepaper.treecoin.online']):not([href^='#']):not([href^='/']):not([href^='./']):not([href^='../']):after {
+    color: #aaa;
+    content: " \f08e";
+    font-family: 'FontAwesome';
+    font-size: x-small;
+    vertical-align: super;
+}
+
+
+/* th.no {
+  display: none;
+  border: 0px none;
+} */
+.md-typeset table:not(.striped) tbody tr:hover {
+  background-color: transparent;
+}
+.md-typeset table img {
+  border: #ccc 1px dotted;
+}
+.md-typeset h2 {
+  min-height: 1.5em;
+}
+
+
+.typewriter {
+  text-align: left;
+  background-color: #333d29;
+  border-radius: 9px;
+  color: #c2c5aa;
+  padding: 200px 0 200px 25%;
+  margin: 5rem 0;
+}
+blink {
+  animation:blinkingText 2s infinite;
+}
+
+@keyframes blinkingText{
+  0%{     color: #c2c5aa;    }
+  49%{    color: transparent; }
+  50%{    color: transparent; }
+  99%{    color:transparent;  }
+  100%{   color: #c2c5aa;    }
+}
