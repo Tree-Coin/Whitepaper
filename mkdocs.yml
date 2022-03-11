@@ -1,13 +1,13 @@
 site_name: Tree Coin Whitepaper
 site_url: https://whitepaper.treecoin.online
-site_description: 'An alternative economic system for financing Tree protection, Eco-villages and Sustainability'
+site_description: 'An alternative ecologic system for financing Tree protection, Eco-villages and Sustainability'
 site_author: 'The Tree Coin Roots collective'
 copyright: '2022 Tree Coin'
 repo_name: 'GitHub'
 repo_url: https://github.com/Tree-Coin/Whitepaper/
 # edit_uri: edit/mkdocs/docs/
 edit_uri: ""
-docs_dir: 'docs'
+docs_dir: ''
 use_directory_urls: true
 dev_addr: '127.0.0.1:8000'
 copyright: Copyright &copy; 2022 Tree Coin
