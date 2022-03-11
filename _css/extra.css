@@ -34,30 +34,21 @@ a:not([href*='localhost']):not([href*='127.0.0.1']):not([href*='whitepaper.treec
 
 
 .typewriter {
-  text-align: center;
+  text-align: left;
+  background-color: #333d29;
+  border-radius: 9px;
+  color: #c2c5aa;
+  padding: 200px 0 200px 25%;
+  margin: 5rem 0;
 }
-
 blink {
-  animation:1s blinker linear infinite;
-  -webkit-animation:1s blinker linear infinite;
-  -moz-animation:1s blinker linear infinite;
-  color: red;
+  animation:blinkingText 2s infinite;
 }
 
-@-moz-keyframes blinker {
-  0% { opacity: 1.0; }
-  50% { opacity: 0.0; }
-  100% { opacity: 1.0; }
-}
-
-@-webkit-keyframes blinker {
-  0% { opacity: 1.0; }
-  50% { opacity: 0.0; }
-  100% { opacity: 1.0; }
-}
-
-@keyframes blinker {
-  0% { opacity: 1.0; }
-  50% { opacity: 0.0; }
-  100% { opacity: 1.0; }
+@keyframes blinkingText{
+  0%{     color: #c2c5aa;    }
+  49%{    color: transparent; }
+  50%{    color: transparent; }
+  99%{    color:transparent;  }
+  100%{   color: #c2c5aa;    }
 }
