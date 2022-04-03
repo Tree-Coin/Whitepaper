@@ -57,11 +57,11 @@ blink {
   animation:blinkingText 1.5s infinite;
 }
 @keyframes blinkingText{
-  0%   {    color: #c2c5aa;    }
+  0%   {    color: #c2c5aa;     }
   49%  {    color: transparent; }
   50%  {    color: transparent; }
   99%  {    color:transparent;  }
-  100% {    color: #c2c5aa;    }
+  100% {    color: #c2c5aa;     }
 }
 
 hr {
