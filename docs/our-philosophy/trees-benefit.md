@@ -18,6 +18,6 @@ Holding trees means holding life and the **Tree Coin<sup></sup> is therefore the
 
 ### Trees for All – Tree Coin<sup></sup> for All
 
-The Tree Coin<sup></sup> shall be distributed, as a gift or under free subscription, to Associations, Eco-villages, Tree-keepers and volunteers.
+The Tree Coin<sup></sup> shall be distributed, as a gift or under free subscription, to Associations, Eco-villages, Communities, Tree-keepers and volunteers.
 
 It has **no fixed monetary value** so **will be not traded and speculated on exchanges** being a **circular internal ECOLOGICAL CREDIT**

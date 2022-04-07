@@ -80,7 +80,7 @@ def roots(branchLen, pen, window):
 
 ### Roots colours
 The roots are in the underground and so represented by a single colour, the grey, redimensioned of a fourth of each step.<br>
-Tree roots colour is a random value between <code>250</code> and <code>255</code> for each rgb value.<br />
+Tree roots colour is a random value between <code>250</code> and <code>255</code> for each rgb value.<br>
 They represents the [dual cosmology](https://en.wikipedia.org/wiki/Dualism_in_cosmology), like the day and the night, so are dual and geometrically regular, with a double division as `Y`.<br>
 
 <br>

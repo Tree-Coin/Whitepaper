@@ -67,3 +67,7 @@ blink {
 hr {
   margin: 3rem 0 !important;
 }
+
+code, .highlight {
+  width: fit-content;
+}

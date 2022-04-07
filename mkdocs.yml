@@ -12,20 +12,46 @@ use_directory_urls: true
 dev_addr: "127.0.0.1:4000"
 copyright: "Copyright &copy; 2022 Tree Coin"
 extra:
+  # homepage: https://treecoin.online/
+  # version:
+  #   provider: mike
+  #   default: latest
   generator: false
-  version: 4.7.7
-  social:
+  # social:
     # - icon: fontawesome/brands/twitter
     #   link: https://twitter.com/squidfunk
     #   name: squidfunk on Twitter
+  alternate:
+    - name: English
+      link: /
+      lang: en
+    # - name: Italiano
+    #   link: /it/
+    #   lang: it
+  # consent:
+  #   title: Cookie consent
+  #   description: >-
+  #     We use cookies to recognize your repeated visits and preferences, as well
+  #     as to measure the effectiveness of our documentation and whether users
+  #     find what they're searching for. With your consent, you're helping us to
+  #     make our documentation better.
+  #   cookies:
+  #     analytics:
+  #       name: Google Analytics
+  #       checked: false
 extra_css:
   - _css/extra.css
+extra_javascript:
+  - _js/jquery/jquery.min.js
+  - _js/main.js
+  # - https://polyfill.io/v3/polyfill.min.js?features=es6
+  # - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 nav:
-  - Home: "index.md"
+  - Home:
+    - Home: "index.md"
   - Our philosophy:
-    # - Governance: "our-philosophy/governance.md"
-    - License: "about/license.md"
     - The debit problem: "our-philosophy/the-debit-problem.md"
+    - The solution: "our-philosophy/the-solution.md"
     - Trees benefit: "our-philosophy/trees-benefit.md"
     - Requirements: "our-philosophy/requirements.md"
   - Technical features:
@@ -33,33 +59,41 @@ nav:
     - Technical plotting details: "technical-features/technical-plotting-details.md"
     - The Tree Coin credit-representation: "technical-features/the-tree-credit-representation.md"
     - Table of barter ratio: "technical-features/table-of-proposed-barter-ratio-per-tree-coin.md"
+  - About the project:
+    - Governance: "about/governance.md"
+    - Licenses: "about/licenses.md"
   - UN Sustainable Development:
     - Trees and sustainable development: "un-sustainable-development/trees-and-sustainable-development.md"
     - Participation to UN Global Goals: "un-sustainable-development/participation-to-un-global-goals.md"
 markdown_extensions:
+  - attr_list: true
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
-      options:
-        custom_icons:
-          - overrides/.icons
+      # options:
+      #   custom_icons:
+      #     - overrides/.icons
 theme:
   name: material
   # font:
   #   text: Roboto
   #   code: Roboto Mono
   features:
-    - tabs
+    - header.autohide
     - instant
-    # - navigation.instant
     - navigation.expand
-    - navigation.indexes
+    # - navigation.indexes
+    - navigation.instant
+    - navigation.sections
+    - navigation.tabs
+    # - navigation.tabs.sticky
+    # - navigation.tracking
+    - navigation.top
+    - search.highlight
+    - search.suggest
+    - tabs
     - toc.follow
     - toc.integrate
-    - navigation.top
-    - search.suggest
-    - search.highlight
-    - header.autohide
   logo: _img/spring_500.png
   favicon: _img/favicon.ico
   # icon:
@@ -80,7 +114,15 @@ theme:
         icon: material/weather-sunny
         name: "Switch to light mode"
 plugins:
-  - search
+  # - mike:
+  #     version_selector: false
+  #     css_dir: _css
+  #     javascript_dir: _js
+  #     canonical_version: null
+  - search:
+      lang:
+        - en
+        - it
   - awesome-pages:
       collapse_single_pages: false
   - mkdocs-nav-enhancements
@@ -102,6 +144,7 @@ markdown_extensions:
   - footnotes
   - meta
   - md_in_html
+  # - search
   - smarty
   # - toc:
   #     permalink: true
@@ -120,6 +163,7 @@ markdown_extensions:
   - tables
   - pymdownx.tasklist:
       custom_checkbox: false
+
   # - pymdownx.superfences:
   #     custom_fences:
   #       - name: mermaid
@@ -128,8 +172,3 @@ markdown_extensions:
   # - pymdownx.emoji:
   #     emoji_index: !!python/name:materialx.emoji.twemoji
   #     emoji_generator: !!python/name:materialx.emoji.to_svg
-extra_javascript:
-  - _js/jquery/jquery.min.js
-  - _js/main.js
-  # - https://polyfill.io/v3/polyfill.min.js?features=es6
-  # - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
