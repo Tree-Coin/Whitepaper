@@ -52,6 +52,10 @@ a[href^="https://"]:after {
   text-align: left;
 }
 
+.telegram {
+  color: #0088cc;
+}
+
 
 blink {
   animation:blinkingText 1.5s infinite;
