@@ -1,0 +1,186 @@
+
+.md-nav__link {
+  display: block ruby;
+}
+
+figcaption {
+  font-size: 10pt !important;
+  font-style: normal !important;
+  margin: -0.75em auto 1em auto !important;
+}
+
+a[target^="http://"]:after,
+a[href^="https://"]:after,
+a[target^="_blank"]:after {
+    color: #aaa;
+    content: "\f08e";
+    font-family: 'FontAwesome';
+    font-size: x-small;
+    margin-left: 5px;
+    vertical-align: super;
+}
+
+.green {
+  color: var(--md-primary-fg-color--dark);
+}
+.red {
+  color: var(--md-code-hl-number-color);
+}
+
+.md-typeset table:not(.striped) tbody tr:hover {
+  background-color: transparent;
+}
+.md-typeset table img {
+  border: #ccc 1px dotted;
+}
+.md-typeset h2 {
+  min-height: 1.5em;
+}
+.typewriter {
+  text-align: left;
+  background-color: #333d29;
+  border-radius: 9px;
+  color: #c2c5aa;
+  padding: 200px 0 200px 20%;
+  margin: 3rem 0;
+}
+.typewriter code {
+  background-color: #fff;
+  color: #333;
+}
+.typewriter h2 {
+  text-align: left;
+}
+
+/** Text colours */
+.telegram { color: #0088cc !important; }
+.sdg1 { color: #e4233a !important; }
+.sdg2 { color: #dba439 !important; }
+.sdg3 { color: #4b9d37 !important; }
+.sdg4 { color: #c51a2d !important; }
+.sdg5 { color: #ff3a20 !important; }
+.sdg6 { color: #25bde4 !important; }
+.sdg7 { color: #fac209 !important; }
+.sdg8 { color: #a31942 !important; }
+.sdg9 { color: #fc6723 !important; }
+.sdg10 { color: #dc1266 !important; }
+.sdg11 { color: #fd9d24 !important; }
+.sdg12 { color: #c08b2f !important; }
+.sdg13 { color: #3f7e45 !important; }
+.sdg14 { color: #1f97d3 !important; }
+.sdg15 { color: #59ba47 !important; }
+.sdg16 { color: #136a9f !important; }
+.sdg17 { color: #1a486a !important; }
+.md-button.sdg1:hover {
+  background-color: #e4233a !important;
+  border-color: #e4233a !important;
+  color: #fff !important;
+}
+.md-button.sdg2:hover {
+  background-color: #dba439 !important;
+  border-color: #dba439 !important;
+  color: #fff !important;
+}
+.md-button.sdg3:hover {
+  background-color: #4b9d37 !important;
+  border-color: #4b9d37 !important;
+  color: #fff !important;
+}
+.md-button.sdg4:hover {
+  background-color: #c51a2d !important;
+  border-color: #c51a2d !important;
+  color: #fff !important;
+}
+.md-button.sdg5:hover {
+  background-color: #ff3a20 !important;
+  border-color: #ff3a20 !important;
+  color: #fff !important;
+}
+.md-button.sdg6:hover {
+  background-color: #25bde4 !important;
+  border-color: #25bde4 !important;
+  color: #fff !important;
+}
+.md-button.sdg7:hover {
+  background-color: #fac209 !important;
+  border-color: #fac209 !important;
+  color: #fff !important;
+}
+.md-button.sdg8:hover {
+  background-color: #a31942 !important;
+  border-color: #a31942 !important;
+  color: #fff !important;
+}
+.md-button.sdg9:hover {
+  background-color: #fc6723 !important;
+  border-color: #fc6723 !important;
+  color: #fff !important;
+}
+.md-button.sdg10:hover {
+  background-color: #dc1266 !important;
+  border-color: #dc1266 !important;
+  color: #fff !important;
+}
+.md-button.sdg11:hover {
+  background-color: #fd9d24 !important;
+  border-color: #fd9d24 !important;
+  color: #fff !important;
+}
+.md-button.sdg12:hover {
+  background-color: #c08b2f !important;
+  border-color: #c08b2f !important;
+  color: #fff !important;
+}
+.md-button.sdg13:hover {
+  background-color: #3f7e45 !important;
+  border-color: #3f7e45 !important;
+  color: #fff !important;
+}
+.md-button.sdg14:hover {
+  background-color: #1f97d3 !important;
+  border-color: #1f97d3 !important;
+  color: #fff !important;
+}
+.md-button.sdg15:hover {
+  background-color: #59ba47 !important;
+  border-color: #59ba47 !important;
+  color: #fff !important;
+}
+.md-button.sdg16:hover {
+  background-color: #136a9f !important;
+  border-color: #136a9f !important;
+  color: #fff !important;
+}
+.md-button.sdg17:hover {
+  background-color: #1a486a !important;
+  border-color: #1a486a !important;
+  color: #fff !important;
+}
+
+.center-text-block {
+  margin: 0 25%;
+}
+@media screen and (max-width: 1100px) {
+  .center-text-block {
+    margin: 0;
+  }
+}
+
+blink {
+  animation:blinkingText 1.5s infinite;
+}
+@keyframes blinkingText{
+  0%   {    color: #c2c5aa;     }
+  49%  {    color: transparent; }
+  50%  {    color: transparent; }
+  99%  {    color:transparent;  }
+  100% {    color: #c2c5aa;     }
+}
+
+hr {
+  margin: 3rem 0 !important;
+}
+
+code, .highlight {
+  width: fit-content;
+}
