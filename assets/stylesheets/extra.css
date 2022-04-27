@@ -34,8 +34,6 @@ a[href^="https://"]:after {
 .md-typeset h2 {
   min-height: 1.5em;
 }
-
-
 .typewriter {
   text-align: left;
   background-color: #333d29;
@@ -52,10 +50,34 @@ a[href^="https://"]:after {
   text-align: left;
 }
 
-.telegram {
-  color: #0088cc;
-}
+/** Text colours */
+.telegram { color: #0088cc !important; }
+.sdg1 { color: #e4233a !important; }
+.sdg2 { color: #dba439 !important; }
+.sdg3 { color: #4b9d37 !important; }
+.sdg4 { color: #c51a2d !important; }
+.sdg5 { color: #ff3a20 !important; }
+.sdg6 { color: #25bde4 !important; }
+.sdg7 { color: #fac209 !important; }
+.sdg8 { color: #a31942 !important; }
+.sdg9 { color: #fc6723 !important; }
+.sdg10 { color: #dc1266 !important; }
+.sdg11 { color: #fd9d24 !important; }
+.sdg12 { color: #c08b2f !important; }
+.sdg13 { color: #3f7e45 !important; }
+.sdg14 { color: #1f97d3 !important; }
+.sdg15 { color: #59ba47 !important; }
+.sdg16 { color: #136a9f !important; }
+.sdg17 { color: #1a486a !important; }
 
+.center-text-block {
+  margin: 0 25%;
+}
+@media screen and (max-width: 1100px) {
+  .center-text-block {
+    margin: 0;
+  }
+}
 
 blink {
   animation:blinkingText 1.5s infinite;
